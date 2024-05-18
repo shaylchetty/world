@@ -10,6 +10,10 @@ body {
   flex-direction: column; /* Stack children vertically */
 }
 
+img {
+  max-width: 100%;
+}
+
 .image-container {
   display: flex;
   justify-content: center;
@@ -17,6 +21,8 @@ body {
   height: 80vh; /* Set the container height to 60% of the viewport height */
   margin-top: 20vh;
   margin-bottom: 10vh;
+  max-width: 100%; /* Maximum width is 100% of the image container */
+  height: auto; /* Height is automatically adjusted to maintain the aspect ratio */
 }
 
 /* Dropdown Button */
