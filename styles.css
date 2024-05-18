@@ -19,7 +19,7 @@ img {
   justify-content: center;
   align-items: flex-start; /* Align items to the start of the container */
   height: 80vh; /* Set the container height to 60% of the viewport height */
-  margin-top: 20vh;
+  margin-top: 5vh;
   margin-bottom: 10vh;
   max-width: 100%; /* Maximum width is 100% of the image container */
   height: auto; /* Height is automatically adjusted to maintain the aspect ratio */
