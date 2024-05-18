@@ -34,7 +34,7 @@ img {
   font-size: 1rem;
   border: none;
   cursor: pointer;
-  width: 5rem;
+  width: 6rem;
 }
 
 /* Dropdown button on hover & focus */
@@ -53,7 +53,7 @@ img {
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
-  width: 5rem;
+  width: 6rem;
   display: none;
   position: absolute;
   background-color: #f1f1f1;
