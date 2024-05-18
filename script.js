@@ -38,3 +38,7 @@ function changeOption(option) {
     image.src = "images/6.jpg";
   }
 }
+
+window.onload = function() {
+    alert("Play Audio (see above)"); 
+};
